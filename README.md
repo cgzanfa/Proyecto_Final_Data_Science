@@ -14,7 +14,7 @@ Somos una empresa joven dedicada a la consultoría automotriz. Nos apasiona brin
 
 En un mundo donde los negocios y la tecnología cambian rápidamente, nuestra área de Data Science ayuda a aprovechar estas oportunidades para descubrir los secretos detrás de la información y tomar decisiones informadas.
 
-#### > Conclusión
+#### _Conclusión
  
 * La ciencia de datos es mucho más que conocer los últimos métodos y herramientas disponibles.
 * Primero comprenda su problema. Evalúe sus datos de acuerdo con su objetivo.
