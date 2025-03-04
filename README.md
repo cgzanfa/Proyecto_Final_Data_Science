@@ -16,7 +16,7 @@ En un mundo donde los negocios y la tecnología cambian rápidamente, nuestra á
 
 #### Conclusión
 
-> La ciencia de datos es mucho más que conocer los últimos métodos y herramientas disponibles.
-Primero comprenda su problema. Evalúe sus datos de acuerdo con su objetivo.
-Visualizar datos es clave. Ayúdese con gráficos para comprender las métricas.
-Finalmente hay que entender que la ciencia de datos real requiere prueba y error. Debe validar constantemente la entrada y la salida.
+> *La ciencia de datos es mucho más que conocer los últimos métodos y herramientas disponibles.
+*Primero comprenda su problema. Evalúe sus datos de acuerdo con su objetivo.
+*Visualizar datos es clave. Ayúdese con gráficos para comprender las métricas.
+*Finalmente hay que entender que la ciencia de datos real requiere prueba y error. Debe validar constantemente la entrada y la salida.
