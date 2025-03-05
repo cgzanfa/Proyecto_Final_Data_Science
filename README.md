@@ -21,5 +21,5 @@ En un mundo donde los negocios y la tecnología cambian rápidamente, nuestra á
 * Finalmente hay que entender que la ciencia de datos real requiere prueba y error. Debe validar constantemente la entrada y la salida.
 
 
-Para mas informacion ver Data_Story_Telling
+* - Para mas informacion ver el archivo Data_StoryTelling
 ![](https://github.com/cgzanfa/Proyecto_Final_Data_Science/blob/ca46cedbcf96b13e0ec6ff67ef1e78ee42422567/Captura.PNG)
