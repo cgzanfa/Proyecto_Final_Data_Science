@@ -19,3 +19,7 @@ En un mundo donde los negocios y la tecnología cambian rápidamente, nuestra á
 * Primero comprenda su problema. Evalúe sus datos de acuerdo con su objetivo.
 * Visualizar datos es clave. Ayúdese con gráficos para comprender las métricas.
 * Finalmente hay que entender que la ciencia de datos real requiere prueba y error. Debe validar constantemente la entrada y la salida.
+
+
+Para mas informacion ver Data_Story_Telling
+![](https://github.com/cgzanfa/Proyecto_Final_Data_Science/blob/ca46cedbcf96b13e0ec6ff67ef1e78ee42422567/Captura.PNG)
